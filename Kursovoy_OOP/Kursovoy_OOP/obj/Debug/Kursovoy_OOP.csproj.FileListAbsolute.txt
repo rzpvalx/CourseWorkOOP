@@ -1,0 +1,40 @@
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.exe.config
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.exe
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.pdb
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.AssemblyReference.cache
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.MainForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.Properties.Resources.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.GenerateResource.cache
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.CoreCompileInputs.cache
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.exe
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.pdb
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.AuthorInfo.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.ProductsAccountingForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.CreateProductForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.SalesReportForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.SearchProductForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Newtonsoft.Json.dll
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Newtonsoft.Json.xml
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.CopyComplete
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.StorageTimeAnalyseForm.resources
+C:\pgu\oop c#\kursach\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.EditProductForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.exe.config
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.exe
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Kursovoy_OOP.pdb
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.AuthorInfo.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.MainForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.Properties.Resources.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.csproj.CopyComplete
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.exe
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.pdb
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.CreateTableForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.EditTableForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.TablesAccountingForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.BookingReportForm.resources
+C:\Users\Alex\Desktop\Kursovoy_OOP\Kursovoy_OOP\obj\Debug\Kursovoy_OOP.SearchTableForm.resources
